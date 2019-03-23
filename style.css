@@ -1,0 +1,486 @@
+#container{
+
+    background-image: url("img/bg1r.png");
+    height: 40vw;
+    background-size:100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+
+
+
+
+#line{
+
+    background-color: white;
+    height: 0.3vw;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#left{
+
+    background-color: bis que;
+    height: 5vw;
+    
+    
+}
+
+#par{
+
+   background-color: bis que;
+   height: 10vw;
+   margin-top: 17vw;
+   
+}
+
+#gr1{
+
+   background-color: yel low;
+   height: 10vw;
+}
+
+
+#quote1{
+
+   color: rgba(255, 255, 255, 0.65);
+    font-size: 1vw;
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    transform: translateX(-50%);
+
+}
+
+#gr2{
+
+   background-color: b lue;
+   height: 10vw;
+}
+
+#quote2{
+
+   color: rgba(255, 255, 255, 0.65);
+    font-size: 1vw;
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    transform: translateX(-50%);
+
+
+}
+
+
+#gr3{
+
+   background-color: r ed;
+   height: 10vw;
+}
+
+#quote3{
+
+   color: rgba(255, 255, 255, 0.65);
+    font-size: 1vw;
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    transform: translateX(-50%);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#left2{
+
+   background-color:  ye llow;
+   height: 5vw;
+   margin-left: 1vw;
+   
+   
+}
+
+#e{
+
+   height: 5vw;
+}
+
+#right{
+
+    background-color: bl ue;
+    height: 5vw;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#n0{
+
+   background-color: bluev iolet;
+   height: 5vw;
+
+}
+
+#n1{
+
+   background-image: url("img/01.png");
+   height: 3vw;
+   margin-top: 1vw;
+   margin-right: 1vw;
+   text-indent:-9999px;
+
+   background-size:100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#n1:hover{
+
+   opacity: 0.8;
+}
+
+#n2{
+
+   background-image: url("img/02.png");
+   height: 3vw;
+   margin-top: 1vw;
+   margin-right: 1vw;
+   text-indent:-9999px;
+
+   background-size:100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#n2:hover{
+   opacity: 0.8;
+}
+
+#n3{
+
+   background-image: url("img/03.png");
+   height: 3vw;
+   margin-top: 1vw;
+   margin-right: 1vw;
+   text-indent:-9999px;
+
+   background-size:100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#n3:hover{
+   opacity: 0.8;
+}
+
+#n4{
+
+   background-image: url("img/04.png");
+   height: 3vw;
+   margin-top: 1vw;
+   margin-right: 1vw;
+   text-indent:-9999px;
+
+   background-size:100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#n4:hover{
+   opacity: 0.8;
+}
+
+
+
+
+#n5{
+
+   background-color: bl ue;
+   height: 5vw;
+
+}
+
+
+#pl{
+
+   background-color: whi te;
+   height: 0.1vw;
+
+}
+
+
+
+#line2{
+
+   background-color: wh ite;
+   height: 0.05vw;
+
+}
+
+#ml{
+
+   background-color: whi te;
+   height: 0.1vw;
+
+}
+
+#lorem{
+
+   margin-top: 5vw;
+   background-color: blac k;
+   height: 5vw;
+   font-family: 'Volkhov', serif;
+   font-weight: bold;
+   color: azure;
+   font-size: 4vw;
+   margin-left: 4vw;
+
+}
+
+#dolor{
+
+   margin-top: vw;
+   height: 5vw;
+   font-family: 'Montserrat', sans-serif;
+   color:rgba(255, 255, 255, 1);
+   font-size: 2vw;
+   font-weight: 500;
+   margin-left: 4vw;
+
+}
+
+#brow{
+
+   background-color: w ite;
+   height: 3vw;
+   
+}
+
+
+
+
+#button{
+
+   background-image: url("img/02.png");
+   height: 3vw;
+   margin-top: 2vw;
+   margin-right: 1.5vw;
+   text-indent:-9999px;
+   margin-left: 4vw;
+   background-size:100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#button:hover{
+
+   opacity: 0.8;
+}
+
+
+
+
+
+
+
+#lineg{
+   margin-top: 4vw;
+   background-image: linear-gradient(to right,rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+   height: 0.2vw;
+   margin-left: 4vw;
+}
+
+
+#info{
+
+   margin-top: 2vw;
+   background-color: bl ack;
+   height: 3vw;
+   font-family: 'Montserrat', sans-serif;
+   color:rgb(255, 130, 140);
+   font-size: 1.1vw;
+   font-weight: 500;
+   margin-left: 4vw;
+
+}
+
+
+#footer{
+
+    background-color: black;
+    height: 7.5vw;
+    padding: 0 !important;
+    margin: 0 !important;
+
+}
+
+#f5{
+
+    background-color:  blu e;
+    height: 7vw;
+
+}
+
+#f6{
+
+    background-color: vixolet;
+    height: 7vw;
+
+}
+
+#f7{
+
+    background-color: bluse;
+    height: 7vw;
+
+}
+
+#f8{
+
+    background-color: violfdfet;
+    height: 7vw;
+
+}
+
+
+
+
+#y{
+
+    height: 2.5vw;
+    position: relative;
+    float: left;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    transform: translateX(-50%);
+}
+
+
+ #y:hover{
+
+     opacity: 0.5;
+ }
+
+ #y1{
+
+    height: 2.5vw;
+    position: relative;
+    float: left;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    transform: translateX(-50%);
+
+
+ }
+
+
+ #y1:hover{
+    opacity: 0.5;
+}
+
+#y2{
+
+    height: 2.5vw;
+    position: relative;
+    float: left;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    transform: translateX(-50%);
+
+
+ }
+
+
+ #y2:hover{
+    opacity: 0.5;
+}
+#y3{
+
+    height: 2.5vw;
+    position: relative;
+    float: left;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    transform: translateX(-50%);
+
+
+ }
+
+
+ #y3:hover{
+    opacity: 0.5;
+}
+
+
+
+#footer2{
+
+    background-color: red;
+    height: 4vw;
+    padding: 0 !important;
+    margin: 0 !important;
+
+}
+
+
+#fd2{
+
+   margin-top: 1vw;
+   background-color: bl ack;
+   height: 3vw;
+   font-family: 'Montserrat', sans-serif;
+   color:rgb(255, 130, 140);
+   font-size: 1.1vw;
+   font-weight: 500;
+
+
+
+}
+
+
+#aboutimg{
+
+      background-color: rgba(0, 0, 0, 0.692);
+      height: 20vw;
+      margin-top: 6vw;
+      background-image: url("img/aboutus.png");
+  
+   background-size:100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+      
+}
+
